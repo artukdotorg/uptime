@@ -8,17 +8,17 @@ sites:
   - name: Art UK Shop
     url: https://shop.artuk.org
   - name: Art UK Collections
-    url: https://artuk.qi-cms.com
+    url: $QI_URL  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Art UK Uptime
+  logoUrl: https://pbs.twimg.com/profile_images/1214847052993183744/8icCCU6M_400x400.jpg
+  name: Art UK Uptime Reports
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: "This status page uses real-time data to indicate the current status of Art UK's digital platforms"
   navbar:
     - title: Status
       href: /
