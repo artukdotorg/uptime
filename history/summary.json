@@ -40,9 +40,9 @@
     "url": "$QI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "art-uk-collections",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 1823,
     "timeMonth": 1387,
     "timeYear": 1387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-04": 0
+    }
   }
 ]
