@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/artuk.org.ico",
     "slug": "art-uk-website",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1490,
     "timeDay": 3585,
     "timeWeek": 1813,
     "timeMonth": 1490,
     "timeYear": 1490,
-    "dailyMinutesDown": {
-      "2022-12-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Art UK Shop",
@@ -42,7 +40,7 @@
     "url": "$QI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "art-uk-collections",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.00%",
@@ -54,6 +52,7 @@
     "timeMonth": 1574,
     "timeYear": 1574,
     "dailyMinutesDown": {
+      "2022-12-09": 0,
       "2022-12-08": 28,
       "2022-12-06": 53,
       "2022-12-05": 20
