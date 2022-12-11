@@ -8,7 +8,11 @@ sites:
   - name: Art UK Shop
     url: https://shop.artuk.org
   - name: Art UK Collections
-    url: $QI_URL  
+    url: $QI_URL
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 0
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
