@@ -22,18 +22,20 @@
     "url": "https://shop.artuk.org",
     "icon": "https://icons.duckduckgo.com/ip3/shop.artuk.org.ico",
     "slug": "art-uk-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2072,
-    "timeDay": 1622,
-    "timeWeek": 2008,
-    "timeMonth": 2087,
-    "timeYear": 2072,
-    "dailyMinutesDown": {}
+    "time": 2040,
+    "timeDay": 1180,
+    "timeWeek": 1849,
+    "timeMonth": 2046,
+    "timeYear": 2040,
+    "dailyMinutesDown": {
+      "2022-12-30": 0
+    }
   },
   {
     "name": "Art UK Collections",
