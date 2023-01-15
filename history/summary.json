@@ -4,9 +4,9 @@
     "url": "https://artuk.org",
     "icon": "https://icons.duckduckgo.com/ip3/artuk.org.ico",
     "slug": "art-uk-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,25 +15,28 @@
     "timeWeek": 1176,
     "timeMonth": 1142,
     "timeYear": 1292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-15": 0
+    }
   },
   {
     "name": "Art UK Shop",
     "url": "https://shop.artuk.org",
     "icon": "https://icons.duckduckgo.com/ip3/shop.artuk.org.ico",
     "slug": "art-uk-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1985,
-    "timeDay": 2045,
-    "timeWeek": 1982,
-    "timeMonth": 1926,
-    "timeYear": 1985,
+    "time": 1968,
+    "timeDay": 1465,
+    "timeWeek": 1845,
+    "timeMonth": 1899,
+    "timeYear": 1968,
     "dailyMinutesDown": {
+      "2023-01-15": 0,
       "2022-12-30": 16
     }
   },
