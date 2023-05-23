@@ -22,9 +22,9 @@
     "url": "https://shop.artuk.org",
     "icon": "https://icons.duckduckgo.com/ip3/shop.artuk.org.ico",
     "slug": "art-uk-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.85%",
@@ -34,6 +34,7 @@
     "timeMonth": 2154,
     "timeYear": 2079,
     "dailyMinutesDown": {
+      "2023-05-23": 0,
       "2023-05-07": 324,
       "2023-05-06": 59
     }
