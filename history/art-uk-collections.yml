@@ -1,7 +1,7 @@
 url: $QI_URL
-status: up
-code: 200
-responseTime: 461
-lastUpdated: 2023-09-03T23:08:58.398Z
+status: down
+code: 500
+responseTime: 681
+lastUpdated: 2023-09-04T22:21:45.328Z
 startTime: 2022-11-25T00:24:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
