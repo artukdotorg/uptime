@@ -7,6 +7,8 @@ sites:
     url: https://artuk.org
   - name: Art UK Shop
     url: https://shop.artuk.org
+  - name: Shop Prints
+    url: https://shop.artuk.org/prints.html
   - name: Art UK Collections
     url: $QI_URL
     expectedStatusCodes:
