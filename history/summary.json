@@ -22,19 +22,19 @@
     "url": "https://shop.artuk.org",
     "icon": "https://icons.duckduckgo.com/ip3/shop.artuk.org.ico",
     "slug": "art-uk-shop",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2204,
-    "timeDay": 2911,
-    "timeWeek": 2557,
-    "timeMonth": 2348,
-    "timeYear": 2204,
+    "time": 2206,
+    "timeDay": 2918,
+    "timeWeek": 2570,
+    "timeMonth": 2359,
+    "timeYear": 2206,
     "dailyMinutesDown": {
-      "2023-10-15": 0
+      "2023-10-15": 10
     }
   },
   {
