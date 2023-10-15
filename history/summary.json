@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1303,
-    "timeDay": 1381,
-    "timeWeek": 1284,
-    "timeMonth": 1245,
-    "timeYear": 1303,
-    "dailyMinutesDown": {
-      "2023-07-01": 16
-    }
+    "time": 1304,
+    "timeDay": 1421,
+    "timeWeek": 1308,
+    "timeMonth": 1253,
+    "timeYear": 1304,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Art UK Shop",
@@ -25,30 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.artuk.org.ico",
     "slug": "art-uk-shop",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "96.12%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2193,
-    "timeDay": 2907,
-    "timeWeek": 2460,
-    "timeMonth": 2289,
+    "timeDay": 2869,
+    "timeWeek": 2458,
+    "timeMonth": 2291,
     "timeYear": 2193,
-    "dailyMinutesDown": {
-      "2023-10-15": 16,
-      "2023-10-12": 289,
-      "2023-10-11": 86,
-      "2023-08-31": 38,
-      "2023-07-20": 71,
-      "2023-07-19": 4,
-      "2023-07-14": 31,
-      "2023-06-03": 97,
-      "2023-05-29": 88,
-      "2023-05-23": 18,
-      "2023-05-07": 324,
-      "2023-05-06": 59
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shop Prints",
@@ -61,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1080,
-    "timeDay": 1080,
-    "timeWeek": 1080,
-    "timeMonth": 1080,
-    "timeYear": 1080,
+    "time": 1527,
+    "timeDay": 1527,
+    "timeWeek": 1527,
+    "timeMonth": 1527,
+    "timeYear": 1527,
     "dailyMinutesDown": {}
   },
   {
@@ -74,21 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "art-uk-collections",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 1033,
-    "timeDay": 461,
-    "timeWeek": 565,
-    "timeMonth": 621,
-    "timeYear": 1033,
-    "dailyMinutesDown": {
-      "2022-12-11": 47,
-      "2022-12-08": 28,
-      "2022-12-06": 53,
-      "2022-12-05": 20
-    }
+    "uptimeYear": "100.00%",
+    "time": 1032,
+    "timeDay": 465,
+    "timeWeek": 555,
+    "timeMonth": 616,
+    "timeYear": 1032,
+    "dailyMinutesDown": {}
   }
 ]
