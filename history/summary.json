@@ -22,11 +22,11 @@
     "url": "https://shop.artuk.org",
     "icon": "https://icons.duckduckgo.com/ip3/shop.artuk.org.ico",
     "slug": "art-uk-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2220,
     "timeDay": 3045,
@@ -34,7 +34,7 @@
     "timeMonth": 2432,
     "timeYear": 2220,
     "dailyMinutesDown": {
-      "2023-10-16": 9
+      "2023-10-16": 0
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://shop.artuk.org/prints.html",
     "icon": "https://icons.duckduckgo.com/ip3/shop.artuk.org.ico",
     "slug": "shop-prints",
-    "status": "up",
-    "uptime": "92.19%",
-    "uptimeDay": "92.19%",
-    "uptimeWeek": "92.19%",
-    "uptimeMonth": "92.19%",
-    "uptimeYear": "92.19%",
+    "status": "down",
+    "uptime": "93.40%",
+    "uptimeDay": "93.40%",
+    "uptimeWeek": "93.40%",
+    "uptimeMonth": "93.40%",
+    "uptimeYear": "93.40%",
     "time": 6805,
     "timeDay": 6805,
     "timeWeek": 6805,
     "timeMonth": 6805,
     "timeYear": 6805,
     "dailyMinutesDown": {
-      "2023-10-16": 64,
+      "2023-10-16": 55,
       "2023-10-15": 3
     }
   },
