@@ -10,11 +10,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1308,
-    "timeDay": 1516,
-    "timeWeek": 1455,
-    "timeMonth": 1310,
-    "timeYear": 1308,
+    "time": 1307,
+    "timeDay": 1266,
+    "timeWeek": 1430,
+    "timeMonth": 1320,
+    "timeYear": 1307,
     "dailyMinutesDown": {
       "2023-10-19": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 2270,
-    "timeDay": 1446,
-    "timeWeek": 3291,
-    "timeMonth": 2723,
-    "timeYear": 2270,
+    "time": 2267,
+    "timeDay": 1304,
+    "timeWeek": 3342,
+    "timeMonth": 2716,
+    "timeYear": 2267,
     "dailyMinutesDown": {
       "2023-10-16": 19
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.artuk.org.ico",
     "slug": "shop-prints",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "98.98%",
-    "time": 3620,
-    "timeDay": 954,
-    "timeWeek": 3620,
-    "timeMonth": 3620,
-    "timeYear": 3620,
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 3481,
+    "timeDay": 968,
+    "timeWeek": 3481,
+    "timeMonth": 3481,
+    "timeYear": 3481,
     "dailyMinutesDown": {
       "2023-10-16": 74,
       "2023-10-15": 3
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1025,
-    "timeDay": 480,
-    "timeWeek": 585,
-    "timeMonth": 618,
-    "timeYear": 1025,
+    "time": 1023,
+    "timeDay": 465,
+    "timeWeek": 587,
+    "timeMonth": 617,
+    "timeYear": 1023,
     "dailyMinutesDown": {}
   }
 ]
