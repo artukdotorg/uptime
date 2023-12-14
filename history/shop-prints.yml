@@ -1,7 +1,7 @@
 url: https://shop.artuk.org/prints.html
-status: up
-code: 200
-responseTime: 394
-lastUpdated: 2023-12-13T23:09:53.781Z
+status: down
+code: 500
+responseTime: 3656
+lastUpdated: 2023-12-14T09:48:10.449Z
 startTime: 2023-10-15T17:35:12.518Z
 generator: Upptime <https://github.com/upptime/upptime>
