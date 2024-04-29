@@ -4,18 +4,19 @@
     "url": "https://artuk.org",
     "icon": "https://icons.duckduckgo.com/ip3/artuk.org.ico",
     "slug": "art-uk-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1499,
     "timeDay": 2282,
     "timeWeek": 3271,
-    "timeMonth": 2917,
+    "timeMonth": 2958,
     "timeYear": 1596,
     "dailyMinutesDown": {
+      "2024-04-29": 0,
       "2024-04-15": 16,
       "2023-10-19": 21
     }
