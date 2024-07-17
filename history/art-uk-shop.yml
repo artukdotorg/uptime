@@ -1,7 +1,7 @@
 url: https://shop.artuk.org
-status: up
-code: 200
-responseTime: 982
-lastUpdated: 2024-07-16T23:11:57.241Z
+status: down
+code: 500
+responseTime: 823
+lastUpdated: 2024-07-17T07:45:08.387Z
 startTime: 2022-11-25T00:24:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
