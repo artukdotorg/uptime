@@ -1,7 +1,7 @@
 url: https://artuk.org
-status: up
-code: 200
-responseTime: 1373
-lastUpdated: 2025-05-17T10:26:35.214Z
+status: down
+code: 504
+responseTime: 10531
+lastUpdated: 2025-05-17T13:38:57.143Z
 startTime: 2022-11-25T00:24:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
